@@ -1,0 +1,13 @@
+.cont-projet{
+    width: 100%;
+    padding: 1vw;
+}
+
+.list-projet{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.css-1qvr50w-MuiTypography-root{
+    font-size: large !important;
+}

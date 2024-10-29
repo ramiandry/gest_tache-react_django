@@ -1,0 +1,122 @@
+{
+  "categorie": [
+    {
+      "id": 1,
+      "type": "technologique"
+    },
+    {
+      "id": 2,
+      "type": "livre"
+    },
+    {
+      "id": 3,
+      "type": "electromanagé"
+    }
+  ],
+  "data": [
+    {
+      "nom": "fer",
+      "prix": 30.0,
+      "img": "fer.jpg",
+      "categorie": 3,
+      "description": "Chaleur et vapeur puissantes : avec ses 3000 W, vous bénéficiez de plus de puissance pour un démarrage rapide et un débit de vapeur continu de 55 g/min",
+      "marque": "Vista france",
+      "modele": "Effet pressing 240g"
+    },
+    {
+      "nom": "Refrigerateur",
+      "prix": "2.000.000",
+      "img": "refrigerateur.jpg",
+      "categorie": 3,
+      "description": "",
+      "marque": "Bosch Electroménager",
+      "modele": "Bosch 2"
+    },
+    {
+      "nom": "mixer",
+      "prix": 150.0,
+      "img": "mixer.jpg",
+      "categorie": 3,
+      "description": "Haute capacité : Bol en verre gradué de 1,50 litre avec bec verseur et différentes unités de mesure: ml et oz. Ouverture de remplissage et bouchon transparent gradué ",
+      "marque": "Taurus",
+      "modele": "T-22"
+    },
+    {
+      "nom": "Rice cooker",
+      "prix": 120.0,
+      "img": "rice.jpg",
+      "categorie": 3,
+      "description": " Riz de grande puissance avec 700 W, parfait pour cuisiner une grande quantité et une variété d'aliments. Préparez jusqu'à 10 portions de riz à la fois, ce qui le rend également parfait pour les grandes familles. ",
+      "marque": "Cecotec",
+      "modele": "crc-203"
+    },
+    {
+      "nom": "XBox Manette",
+      "prix": 120.0,
+      "img": "x_box.jpg",
+      "categorie": 1,
+      "description": "🎮[Grande compatibilité] EasySMX manette de jeu sans fil est compatible sur PS3 ainsi que sur tous les jeux PC, Vista et TV Box. Support Windows 11/10/8.1/8/7/XP et Android (version 4.0 ou supérieure, et l'appareil doit entièrement prendre en charge la fonction OTG via Simulateur) ",
+      "marque": "EasySMX"
+    },
+    {
+      "nom": "PC Manette Sans Fil",
+      "prix": 170.0,
+      "img": "manette.jpg",
+      "categorie": 1,
+      "description": "🎮[Double vibration+Rafale] La fonction vibration et la fonction rafale vous offrent une expérience de jeu immersive et sans précédent. De plus, la manette dispose de joysticks de haute précision, de deux triggers de pression, et d’un D-pad à 8 directions qui vous assure un total contrôle ",
+      "marque": "EasySMX"
+    },
+    {
+      "nom": "PC Gamer ",
+      "prix": "4.000.000",
+      "img": "pc_gamer.jpg",
+      "categorie": 1,
+      "description": " Intel Core i9 13980HX de 13th generation Nvidia RTX4080 12GB. Le mode Discrete Graphics (MUX) pousse les performances du GPU à leur niveau le plus haut. De son côté, la technologie MSI Overboost Ultra libère toute la puissance du CPU et du GPU. Technologie de refroidissement Cooler Boost Titan exclusive avec 4 ventilateurs dédiés et 8 caloducs en cuivre ",
+      "marque": "MSI"
+    },
+    {
+      "nom": "PC Portable Gamer ",
+      "prix": "3.500.000",
+      "img": "portable-gamer.webp",
+      "categorie": 1,
+      "description": " Intel Core i9 13980HX de 13th generation Nvidia RTX4080 12GB. Le mode Discrete Graphics (MUX) pousse les performances du GPU à leur niveau le plus haut. De son côté, la technologie MSI Overboost Ultra libère toute la puissance du CPU et du GPU. Technologie de refroidissement Cooler Boost Titan exclusive avec 4 ventilateurs dédiés et 8 caloducs en cuivre ",
+      "marque": "MSI"
+    },
+    {
+      "nom": "Vendre à distance",
+      "prix": "50.000",
+      "img": "livre.jpg",
+      "categorie": 1,
+      "description": "Avec la multiplication des moyens de communication, la distribution de produits d'assurance dans le cadre de la vente à distance est devenue incontournable pour les acteurs du marché. Ce mode de commercialisation fait aussi couler beaucoup d'encre à l'heure du renforcement de la protection des consommateurs.",
+      "page": 125,
+      "editeur": "L'ARGUS DE L'ASSURANCE"
+    },
+    {
+      "nom": "Vendre à oui",
+      "prix": "90.000",
+      "img": "livre1.jpg",
+      "categorie": 1,
+      "description": "Bien plus qu’un livre sur la vente, Vendre oui, c'est facile! est une porte grande ouverte sur la réalité du plein potentiel humain et des trésors qui s’y cachent. Avez-vous déjà constaté que les objections nourrissent la peur? Vous apprendrez qu’en appliquant certains principes vraiment puissants, nous n’avons plus d’objections.",
+      "page": 131,
+      "editeur": "Performance"
+    },
+    {
+      "nom": "Mieux à vendre",
+      "prix": "50.000",
+      "img": "livre2.jpg",
+      "categorie": 1,
+      "description": "Les méthodes et techniques pour bien vendre sont nombreuses et bien connues de la plupart des vendeurs. Pourtant, beaucoup ne les utilisent pas ou les appliquent mal. D’autres se retrouvent livrés à eux-mêmes face aux clients, sans formation particulière.",
+      "page": 117,
+      "editeur": "Performance"
+    },
+    {
+      "nom": "Mieux à vendre",
+      "prix": "60.000",
+      "img": "livre3.jpg",
+      "categorie": 1,
+      "description": "En un an, la réalité d'Internet a changé : d'un eldorado fantastique, la net-économie a connu sa première grande crise économique. Et pourtant, les chiffres du commerce électronique démontrent que cet investissement est indispensable et qu'il sera rentable à court terme.",
+      "page": 120,
+      "editeur": "Printers"
+    }
+  ]
+}

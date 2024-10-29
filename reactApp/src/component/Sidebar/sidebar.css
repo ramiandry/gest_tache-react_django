@@ -1,0 +1,41 @@
+.logo{
+    display: flex;
+    justify-content: left;
+    width: 90%;
+    align-items: center;
+    margin: 1vw auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 0.5px gray, -3px -3px 0.5px gray;
+    animation: animShadowLogo infinite 1s linear;
+}
+
+.logo img{
+    max-width: 5vw;
+    max-height: 10vh;
+    margin-right: 10px;
+    animation: animLogo infinite 8s linear;
+}
+
+.logout{
+    position: absolute;
+    bottom: 5vh;
+    width: 100%;
+}
+
+@keyframes animLogo {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  @keyframes animShadowLogo {
+    from {
+        box-shadow: 3px 3px 0.5px gray, -3px -3px 0.5px gray;
+    }
+    to {
+        box-shadow: -3px 3px 0.5px gray, 3px -3px 0.5px gray;
+    }
+  }
